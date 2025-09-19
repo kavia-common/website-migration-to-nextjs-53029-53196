@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/website-migration-to-nextjs-53029-53196/website_frontend"
+}
